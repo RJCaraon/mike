@@ -1,0 +1,9 @@
+body{
+    background-image: fixed;
+    background-image: url('bg.jpg');
+form{
+    height: auto;
+}
+nav{
+    border-radius: 25px;
+}
